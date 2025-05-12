@@ -14,4 +14,29 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Jefferson's GitHub stats](https://github-rea)
+![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonribeiro&show_icons=true&title_color=8B0000&icon_color=8B0000&text_color=eaeaea&bg_color=000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonribeiro&layout=compact&title_color=8B0000&text_color=eaeaea&bg_color=000000)
+
+---
+
+## 🧠 Linguagens que uso:
+![Java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8B0000?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-8B0000?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+## 🛠️ Ferramentas que utilizo:
+![Trello](https://img.shields.io/badge/Trello-8B0000?style=for-the-badge&logo=trello&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-8B0000?style=for-the-badge&logo=discord&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-8B0000?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-8B0000?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-8B0000?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+<p align="center">
+  🔥 Obrigado por visitar meu perfil! Vamos construir algo incrível juntos.
+</p>
