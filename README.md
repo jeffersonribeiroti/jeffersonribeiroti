@@ -12,14 +12,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonribeiro&show_icons=true&title_color=40E0D0&icon_color=40E0D0&text_color=eaeaea&bg_color=000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonribeiro&layout=compact&title_color=40E0D0&text_color=eaeaea&bg_color=000000)
-
----
-
 ## 🧠 Linguagens que uso:
 ![Java](https://img.shields.io/badge/Java-40E0D0?style=for-the-badge&logo=java&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-40E0D0?style=for-the-badge&logo=css3&logoColor=white)
